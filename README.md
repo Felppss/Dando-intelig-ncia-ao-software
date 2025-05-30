@@ -1,4 +1,4 @@
-# Dando-intelig-ncia-ao-software
+# Dando-inteligência-ao-software
 Utilizando Ferramentas de IA na Nuvem.
 
 Foi realizado o processo (PLN) de Análise de Sentimento a
